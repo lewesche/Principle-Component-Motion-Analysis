@@ -5,6 +5,6 @@ The effects of noise, off axis movement, and rotation were evaluated by recordin
 #
 The mass coordinates of the mass in each reference frame and test were combined into a singular data set, and Principle component analysis was used to reconstruct the motion of each test in three dimensions. 
 #
-The 12 videos can be downloaded in the form of matlab data (.m) files at: https://drive.google.com/open?id=1_3jXHJkQ2-P7hi8d1_KUXVgYDKY_QZHc
+The 12 videos were provided by Professor Kutz and the University of Washington AMATH department, and can be downloaded in the form of matlab data (.m) files at: https://drive.google.com/open?id=1_3jXHJkQ2-P7hi8d1_KUXVgYDKY_QZHc
 # 
 See PDF documentation for details, methods, results, and a discussion on limitations of the methods used. 
